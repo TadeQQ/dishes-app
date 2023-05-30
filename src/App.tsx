@@ -4,8 +4,8 @@ import { Success } from './components/Success';
 const App = () => {
   return (
     <Routes>
-      <Route path="/" element={<DishForm />} />
-      <Route path="/success" element={<Success />} />
+      <Route path="/dishes-app" element={<DishForm />} />
+      <Route path="/dishes-app/success" element={<Success />} />
     </Routes>
   );
 };

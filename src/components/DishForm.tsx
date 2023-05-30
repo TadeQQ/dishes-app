@@ -46,7 +46,7 @@ export const DishForm = () => {
     }
 
     setSubmitting(false);
-    navigate('/success');
+    navigate('/dishes-app/success');
   };
 
   const selectedDishType = watch('type');

@@ -5,7 +5,7 @@ export const Success = () => {
   const navigate = useNavigate();
 
   const handleSubmitAnotherDish = () => {
-    navigate('/');
+    navigate('/dishes-app');
   };
 
   return (
