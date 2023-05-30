@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/dishes-app/static/js/main.23aa7213.js",
+    "main.js": "/dishes-app/static/js/main.c136a869.js",
     "static/js/787.72642adb.chunk.js": "/dishes-app/static/js/787.72642adb.chunk.js",
     "index.html": "/dishes-app/index.html",
-    "main.23aa7213.js.map": "/dishes-app/static/js/main.23aa7213.js.map",
+    "main.c136a869.js.map": "/dishes-app/static/js/main.c136a869.js.map",
     "787.72642adb.chunk.js.map": "/dishes-app/static/js/787.72642adb.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.23aa7213.js"
+    "static/js/main.c136a869.js"
   ]
 }
