@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dishes-app/static/js/main.23aa7213.js",
+    "static/js/787.72642adb.chunk.js": "/dishes-app/static/js/787.72642adb.chunk.js",
+    "index.html": "/dishes-app/index.html",
+    "main.23aa7213.js.map": "/dishes-app/static/js/main.23aa7213.js.map",
+    "787.72642adb.chunk.js.map": "/dishes-app/static/js/787.72642adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.23aa7213.js"
+  ]
+}
